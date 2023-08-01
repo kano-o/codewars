@@ -34,7 +34,7 @@ fn main() {
     fs::write("src/solutions/mod.rs", new_core_mod).unwrap();
 
     // mod folder
-    fs::write(format!("src/solutions/{name}/convert_a_number_to_a_string"), format!("mod solution;")).unwrap();
+    fs::write(format!("src/solutions/{name}/mod.rs"), format!("mod solution;")).unwrap();
 
     // create solution
     fs::write(format!("src/solutions/{name}/solution.rs"), "").unwrap();
