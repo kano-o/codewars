@@ -16,6 +16,7 @@ fn main() {
     }).clone();
     name = name
         .replace(" ", "_")
+        .replace(".", "")
         .replace(":", "")
         .replace("#", "")
         .replace("?", "")
