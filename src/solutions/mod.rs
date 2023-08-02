@@ -10,3 +10,4 @@ mod remove_string_spaces;
 mod thinkful_logic_drills_traffic_light;
 mod beginner_reduce_but_grow;
 mod switch_it_up;
+mod volume_of_a_cuboid;
