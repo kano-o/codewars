@@ -14,3 +14,4 @@ mod volume_of_a_cuboid;
 mod vowel_count;
 mod mumbling;
 mod array_diff;
+mod multiplication_table;
