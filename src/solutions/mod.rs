@@ -15,3 +15,4 @@ mod vowel_count;
 mod mumbling;
 mod array_diff;
 mod multiplication_table;
+mod is_square;
