@@ -19,3 +19,4 @@ mod is_square;
 mod zero_fuel;
 mod reverse_seq;
 mod even_or_odd;
+mod open_or_senior;
