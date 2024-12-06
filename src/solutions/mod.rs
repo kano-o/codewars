@@ -18,3 +18,4 @@ mod multiplication_table;
 mod is_square;
 mod zero_fuel;
 mod reverse_seq;
+mod even_or_odd;
